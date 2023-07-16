@@ -6,6 +6,21 @@
 }
 .navbar{
     height: 60px;
+    
     background-color: #0F1111;
+    color: white;
     
 }
+
+.nav-logo{
+    height: 50px;
+    width: 110 px;
+}
+    
+
+.logo {
+    background-image : url("amazon_logo.png");
+    background-size : cover;
+}
+    
+    
