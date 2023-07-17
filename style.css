@@ -6,7 +6,7 @@
 }
 .navbar{
     height: 60px;
-    
+    display: flex;
     background-color: #0F1111;
     color: white;
     
@@ -21,6 +21,8 @@
 .logo {
     background-image : url("amazon_logo.png");
     background-size : cover;
+    height: 100px;
+    width: 50px;
 }
     
     
