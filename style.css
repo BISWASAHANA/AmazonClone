@@ -22,10 +22,12 @@
 .logo {
     background-image : url("amazon_logo.png");
     background-size : cover;
-    height: 60px;
-    width: 120px;
+    height: 45px;
+    width: 90px;
     /*margin-top: 20px;*/
-    margin-left: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+    align-self: center;
 }
 
 .border{
@@ -42,7 +44,7 @@
     font-size: 0.65rem;
     margin-left: 15px;
     /*margin-top: 10px;*/
-    width: 80px;
+    width: 50px;
 }
 
 .add-2{
@@ -91,4 +93,37 @@
 .search-input{
     width: 100%;
 }
+
+.language{
+    padding: 8px;
+    font-size: 0.75rem;
+}
+
+.language .language-select{
+    font-size: 0.75rem;
+}
+
+.user-1{
+    color:#cccccc;
+    font-size: 0.65rem;
+    margin-left: 8px ;
+    margin-right: 8px ;
+    /*margin-top: 10px;*/
+    width: fit-content;
+}
+
+.user-acc{
+    color:#000000;
+    font-size: 0.65rem;
+    margin-left: 8px ;
+    margin-right: 8px ;
+    /*margin-top: 10px;*/
+    width: fit-content; 
+}
+
+.acc{
+    font-size: 0.62rem;
+}
+
+
     
