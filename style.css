@@ -125,12 +125,22 @@
     font-size: 0.62rem;
 }
 
-.user-1{
+.Returns{
     color:#cccccc;
     font-size: 0.65rem;
     margin-left: 8px ;
     margin-right: 8px ;
     /*margin-top: 10px;*/
     width: fit-content;
+}
+
+.Orders{
+    color:#ffffff;
+    font-size: 0.65rem;
+    margin-left: 8px ;
+    margin-right: 8px ;
+    /*margin-top: 10px;*/
+    width: fit-content;
+    font-weight: bold; 
 }
     
