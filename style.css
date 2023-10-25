@@ -42,6 +42,7 @@
     font-size: 0.65rem;
     margin-left: 15px;
     /*margin-top: 10px;*/
+    width: 80px;
 }
 
 .add-2{
@@ -49,6 +50,7 @@
     font-size: 0.9rem;
     margin-left: 5px;
     font-weight: bold;
+    width: 20px;
 }
 
 .add-icon{
@@ -60,7 +62,33 @@
 /*box-3*/
 .nav-search{
     display:flex;
-    background-color: #cccccc;
+    width: 480px;
+    height: 40px;
+    background-color: #f3a847;
+    border-radius: 5px;
+    justify-content: space-evenly;
 }
-    
+
+.search-icon{
+    align-self: center;
+    font-size: 1.08rem;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: fit-content;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.search-select{
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: none;
+}
+
+.search-input{
+    width: 100%;
+}
     
