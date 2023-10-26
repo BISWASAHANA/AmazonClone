@@ -163,12 +163,40 @@
     border: border-box;
     display: flex;
     align-items: center;
-    margin-left: 18px;
+    margin-left: 28px;
     margin-right: 18px;
 }
 
-.cart{
+.Cart {
     margin-left: 5px;
-    font-size: 0.35rem;
+    font-size: 0.85rem;
+}
 
+.navbar-2{
+    background-color: #232f3e;
+    font-size: 0.6rem;
+    color: #cccccc;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    padding: 10px;
+    height: 18px;
+}
+
+.nav-2-border{
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.Shop-Now{
+    float: inline-end;
+}
+
+.all{
+    display: flex;
+    align-items: center;
+}
+
+.all i{
+    padding:5px;
 }
