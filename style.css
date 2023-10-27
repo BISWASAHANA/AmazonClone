@@ -213,3 +213,22 @@
     border-radius: 2px; 
 }
 
+.footer-head{
+    margin-top: #f3f3f3;
+    margin-bottom: #f3f3f3;
+    background-color: #27323f;
+    font-size: 0.6rem;
+    color: #ffffff;
+    font-weight: 600;
+    padding: 5px;
+    height: 18px;
+    border-top-color: #ffffff;
+    border-bottom-color: #ffffff;   
+}
+
+.footer-head p{
+    font-size: 10px;
+    color: #ffffff;
+    text-align: center;
+}
+
