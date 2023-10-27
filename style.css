@@ -214,21 +214,44 @@
 }
 
 .footer-head{
-    margin-top: #f3f3f3;
-    margin-bottom: #f3f3f3;
-    background-color: #27323f;
+    background-color: #37475a;
     font-size: 0.6rem;
     color: #ffffff;
     font-weight: 600;
     padding: 5px;
     height: 18px;
-    border-top-color: #ffffff;
-    border-bottom-color: #ffffff;   
+    /*border-top: 0.5px solid #ffffff;*/
+      
 }
 
 .footer-head p{
-    font-size: 10px;
+    font-size: 11px;
     color: #ffffff;
     text-align: center;
+    padding: 3.5px;
 }
 
+.footer-menu{
+    display: flex;
+    justify-content: space-evenly;
+    height: 300px;
+    background-color: #232f3e;
+    color: #DDDDDD;
+    border-bottom: 0.1px solid #ffffff;
+}
+
+.footer-menu ul a{
+    display: block;
+    font-size: 0.65rem;
+    margin-top: 10px;
+    font-weight: 200; 
+}
+
+.footer-menu ul{
+    margin-top: 35px;
+}
+
+.footer-menu ul p{
+    font-size: 0.7rem;
+    font-weight: 600;
+}
