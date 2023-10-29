@@ -213,6 +213,13 @@
     border-radius: 2px; 
 }
 
+.hero-section{
+    background-image: url("hero-img.jpg");
+    height: 407px;
+    width: 1013px;
+    background-size: cover;
+}
+
 .footer-head{
     background-color: #37475a;
     font-size: 0.6rem;
