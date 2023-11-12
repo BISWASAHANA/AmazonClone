@@ -271,3 +271,38 @@
     font-size: 16px;
     font-weight: 600;
 }
+
+/**shop-section **/
+
+.shop-section{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: #cccccce7;
+    flex-wrap: wrap;
+}
+
+.box{
+    /*border: 2px solid black;*/
+    height: 360px;
+    width: 23%;
+    background-color: #ffffff;
+    padding: 20px 0px 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.box-img{
+    height: 270px;
+    width: 270px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.box-content{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.box-content h2{
+    font-size: large;
+}
