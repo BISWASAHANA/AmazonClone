@@ -345,3 +345,40 @@
     width: 5px;
 }
 
+.fp2{
+    background-color: #232f3e;
+    color:#ffffff;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.countries{
+    width: 1200px;
+    height: 30px;
+    display:flex;
+    justify-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+    background-color: #232f3e;
+    color:#ffffff;
+    flex-wrap: wrap;
+    padding-bottom: 4px;
+}
+
+a{
+    color: #cccccc;
+    text-decoration: none;
+    font-size: 12px;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.bord{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #cccccc;
+    padding-top: 4px;
+}
