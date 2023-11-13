@@ -385,4 +385,6 @@ a:hover{
 
 .footer{
     background-color: #0F1111;
+    height: 100px;
+    width: inherit;
 }
