@@ -388,3 +388,12 @@ a:hover{
     height: 250px;
     width: inherit;
 }
+
+
+.bar2{
+    font-size: 12px;
+    color: #ffffff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
