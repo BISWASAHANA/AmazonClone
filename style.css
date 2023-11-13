@@ -253,7 +253,6 @@
     height: 300px;
     background-color: #232f3e;
     color: #DDDDDD;
-    border-bottom: 0.1px solid #ffffff;
 }
 
 .footer-menu ul a{
@@ -305,4 +304,25 @@
 
 .box-content h2{
     font-size: large;
+}
+
+.footpanel{
+    background-color: #232f3e;
+    color:#ffffff;
+    border-top: 0.105px solid white;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    background-image : url("amazon_logo.png");
+    background-size : cover;
+    height: 45px;
+    width: 90px;
+    /*margin-top: 20px;*/
+    margin-left: 25px;
+    margin-right: 15px;
+    align-self: center;
 }
