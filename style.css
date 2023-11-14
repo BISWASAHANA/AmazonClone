@@ -446,3 +446,7 @@ h5{
     justify-content: center;
     align-items: center;
 }
+
+.foot-menu ul{
+    width: 80px;
+}
