@@ -385,7 +385,7 @@ a:hover{
 
 .footer{
     background-color: #0F1111;
-    height: 250px;
+    height: 190px;
     width: inherit;
     display: flex;
     justify-content: center;
@@ -394,12 +394,13 @@ a:hover{
 
 .foot-menu{
     color: #ffffff;
-    height: 200px;
+    height: 150px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    width: 750px;
+    width: 950px;
     position: relative;
+    align-items: center;
 }
 
 .foot-menu ul{
@@ -408,7 +409,7 @@ a:hover{
 }
 
 .bottom-panel{
-    height:40px;
+    height:20px;
     align-items: center;
 }
 
@@ -440,13 +441,12 @@ h5{
 
 .footer2{
     background-color: #0F1111;
-    height: 50px;
+    height: 40px;
     width: inherit;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 
 .foot-menu ul{
-    width: 80px;
+    width: 150px;
 }
