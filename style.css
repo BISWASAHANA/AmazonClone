@@ -385,7 +385,7 @@ a:hover{
 
 .footer{
     background-color: #0F1111;
-    height: 190px;
+    height: 200px;
     width: inherit;
     display: flex;
     justify-content: center;
@@ -441,7 +441,7 @@ h5{
 
 .footer2{
     background-color: #0F1111;
-    height: 40px;
+    height: 80px;
     width: inherit;
     display: flex;
     justify-content: center;
